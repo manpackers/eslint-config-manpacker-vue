@@ -1,0 +1,43 @@
+{
+  "name": "eslint-config-manpacker-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint ./test --config=index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpackers/eslint-config-manpacker-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "manpacker",
+    "eslint",
+    "eslintconfig",
+    "standard style",
+    "code style",
+    "check"
+  ],
+  "author": {
+    "name": "WinterFete"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manpackers/eslint-config-manpacker-vue/issues"
+  },
+  "homepage": "https://github.com/manpackers/eslint-config-manpacker-vue#readme",
+  "dependencies": {
+    "eslint-config-manpacker": "^8.0.0",
+    "eslint-plugin-vue": "^5.2.2",
+    "vue-eslint-parser": "^6.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "tape": "^4.10.1",
+    "vue-class-component": "^7.0.2"
+  }
+}
