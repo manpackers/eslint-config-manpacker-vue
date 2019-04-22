@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-manpacker-vue",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Vue project 'manpacker-vue' code style",
   "main": "index.js",
   "directories": {
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/manpackers/eslint-config-manpacker-vue#readme",
   "dependencies": {
-    "eslint-config-manpacker": "^8.0.0",
+    "eslint-config-manpacker": "^1.1.0",
     "eslint-plugin-vue": "^5.2.2",
     "vue-eslint-parser": "^6.0.3"
   },
