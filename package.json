@@ -8,7 +8,7 @@
   },
   "scripts": {
     "lint": "eslint ./test --config=index.js",
-    "test": "eslint ./test --config=index.js"
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
