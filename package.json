@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-manpacker-vue",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Vue project 'manpacker-vue' code style",
   "main": "index.js",
   "directories": {
