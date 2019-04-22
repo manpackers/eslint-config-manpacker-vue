@@ -1,13 +1,14 @@
 {
   "name": "eslint-config-manpacker-vue",
-  "version": "1.1.2",
-  "description": "Vue project 'manpacker-vue' code style",
+  "version": "1.1.4",
+  "description": "Vue project eslint code style",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "lint": "eslint ./test --config=index.js"
+    "lint": "eslint ./test --config=index.js",
+    "test": "eslint ./test --config=index.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,7 @@
     "check"
   ],
   "author": {
-    "name": "winterfete"
+    "name":  "winterfete"
   },
   "license": "MIT",
   "bugs": {
