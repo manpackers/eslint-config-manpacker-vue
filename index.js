@@ -7,7 +7,8 @@ module.exports = {
     }
   },
   globals: {
-    Vue: false
+    Vue: false,
+    Component: false
   },
   plugins: ['vue'],
   extends: ['manpacker']
