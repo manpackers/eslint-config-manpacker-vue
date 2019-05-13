@@ -3,4 +3,9 @@
 .travis.yml
 .DS_Store
 .vscode
-test/
+.elsintrc.js
+.babelrc.js
+node_modules
+package-lock.json
+jscofing.json
+test
